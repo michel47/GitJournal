@@ -4,7 +4,7 @@
 
 
 
-website: https://gitjournal.io/
+website: [gitjournal.io](https://gitjournal.io/)
 <br>android app (authorized via "ssh deploy" key)
 
 Android: <https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal&hl=en>
